@@ -1,0 +1,26 @@
+{
+  "name": "tracker-of-employes",
+  "version": "1.0.0",
+  "description": "This is an application to manage a company's employee database. The goal is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikaRoguie/Tracker-of-employes.git"
+  },
+  "author": "Erika Sanders",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ErikaRoguie/Tracker-of-employes/issues"
+  },
+  "homepage": "https://github.com/ErikaRoguie/Tracker-of-employes#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "modules": "^0.4.0",
+    "mysql2": "^2.3.3",
+    "package": "^1.0.1"
+  }
+}
